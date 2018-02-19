@@ -12,3 +12,7 @@
 ### Stats
 * See stats and the distributions in Stats.ipynb
 
+### Visualized Positive cases
+* See tmp/Visualize Images.ipynb for the overview
+* Individual images are in tmp/pos_visual/
+* It is recommended that you download the python notebooks before viewing because they contain large image files
